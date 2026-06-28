@@ -66,6 +66,4 @@ Create `frontend/.env`:
 REACT_APP_BACKEND_URL=http://localhost:8001
 ```
 
-## License
 
-MIT
